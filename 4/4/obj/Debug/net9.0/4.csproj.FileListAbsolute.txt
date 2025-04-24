@@ -1,0 +1,14 @@
+D:\.univer\ООП\4\4\4\bin\Debug\net9.0\4.exe
+D:\.univer\ООП\4\4\4\bin\Debug\net9.0\4.deps.json
+D:\.univer\ООП\4\4\4\bin\Debug\net9.0\4.runtimeconfig.json
+D:\.univer\ООП\4\4\4\bin\Debug\net9.0\4.dll
+D:\.univer\ООП\4\4\4\bin\Debug\net9.0\4.pdb
+D:\.univer\ООП\4\4\4\obj\Debug\net9.0\4.GeneratedMSBuildEditorConfig.editorconfig
+D:\.univer\ООП\4\4\4\obj\Debug\net9.0\4.AssemblyInfoInputs.cache
+D:\.univer\ООП\4\4\4\obj\Debug\net9.0\4.AssemblyInfo.cs
+D:\.univer\ООП\4\4\4\obj\Debug\net9.0\4.csproj.CoreCompileInputs.cache
+D:\.univer\ООП\4\4\4\obj\Debug\net9.0\4.dll
+D:\.univer\ООП\4\4\4\obj\Debug\net9.0\refint\4.dll
+D:\.univer\ООП\4\4\4\obj\Debug\net9.0\4.pdb
+D:\.univer\ООП\4\4\4\obj\Debug\net9.0\4.genruntimeconfig.cache
+D:\.univer\ООП\4\4\4\obj\Debug\net9.0\ref\4.dll
